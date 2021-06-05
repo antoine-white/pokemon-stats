@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Pokemon Stats</string>
+    <string name="textview">Enter pokemon name:</string>
+    <string name="pikachu">Pikachu...</string>
+    <string name="button">search</string>
+    <string name="button2">exit</string>
+    <string name="statistics">Statistics</string>
+    <string name="informations">Informations</string>
+    <string name="type">Type :</string>
+    <string name="base_xp">Base XP :</string>
+    <string name="height">Height : </string>
+    <string name="weight">Weight :</string>
+    <string name="hp">HP :</string>
+    <string name="Spedd">HP :</string>
+    <string name="speed">Speed :</string>
+    <string name="success">Success !!</string>
+    <string name="valid_poke">This is not a valid pokemon name</string>
+    <string name="bad_name">Cannot retrieve name ! Please try again</string>
+    <string name="image_of_the_pokemon">image of the pokemon</string>
+    <string name="defence">Defence :</string>
+    <string name="attack">Attack :</string>
+    <string name="special_attack">Special Attack:</string>
+    <string name="special_defence">Special Defence :</string>
+    <string name="rating">Rating</string>
+    <string name="see_website">See Website</string>
+    <string name="search_with_pokedia">search with pokedia</string>
+    <string name="search_with_pokeapi">search with pokeapi</string>
+</resources>
